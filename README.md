@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tarun13824
+- 👋 Hi, I’m @tarun138247
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and html
-- 📫 Reach me via my email that is dhandasantosh32@gmail.com
+- 📫 Reach me via my email that is tarundhanda13@gmail.com
 
 
 
